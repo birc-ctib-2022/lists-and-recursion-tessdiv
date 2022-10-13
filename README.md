@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8911267&assignment_repo_type=AssignmentRepo)
 # Lists and recursion
 
 Python's lists, that we can index into in constant time, but where it takes linear time to add or remove in the middle of a list, is a data structure known as a *dynamic array* or a *dynamic list*. There are other kinds of lists, and one of them, the *linked lists* is used in many other programming languages, especially functional languages.[^1]
